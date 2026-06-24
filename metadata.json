@@ -1,0 +1,6 @@
+{
+  "name": "Circuit",
+  "description": "Clone do aplicativo de planejamento e otimização de rotas Circuit, com persistência local de paradas, transferência de rotas e importação de manifesto inteligente por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
